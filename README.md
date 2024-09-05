@@ -6,6 +6,7 @@
 ### HTML5: For structuring the content.
 ### CSS3: For styling the UI components.
 ### Bootstrap: Grid system for responsive layout.
+### Fontawesome Icons
 
 ## Demo
 ### https://anshukumar99.github.io/Dashboard-UI/
